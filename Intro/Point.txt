@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: Intro, Configuration: Debug Win32 ------
+1>main.cpp
+1>C:\Users\Елена\source\repos\ООПСРР\Intro\Intro\main.cpp(176,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+1>Intro.vcxproj -> C:\Users\Елена\source\repos\ООПСРР\Intro\Debug\Intro.exe
+1>Done building project "Intro.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
