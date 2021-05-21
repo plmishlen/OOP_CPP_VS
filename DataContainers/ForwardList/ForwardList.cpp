@@ -1,6 +1,6 @@
 #include"ForwardList.h"
 
-int Element::count = 0;
+int Element::count = 0;		//Инициализация статической переменной
 
 const Element* Element::getpNext()const
 {
